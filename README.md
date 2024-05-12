@@ -1,4 +1,4 @@
 █▀▀ █▀█ █░█ █▀█ █▀ █▀▀  
 █▄▄ █▄█ █▄█ █▀▄ ▄█ ██▄
 
-DATA ANALYSUS & VISUALIZATION WITH POWER BI
+DATA ANALYSIS & VISUALIZATION WITH POWER BI (COURSERA)
